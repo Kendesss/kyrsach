@@ -1,0 +1,15 @@
+C:\Users\y-ken\source\repos\kyrsken\kyrsken\bin\Debug\kyrsken.exe.config
+C:\Users\y-ken\source\repos\kyrsken\kyrsken\bin\Debug\kyrsken.exe
+C:\Users\y-ken\source\repos\kyrsken\kyrsken\bin\Debug\kyrsken.pdb
+C:\Users\y-ken\source\repos\kyrsken\kyrsken\obj\Debug\kyrsken.csproj.AssemblyReference.cache
+C:\Users\y-ken\source\repos\kyrsken\kyrsken\obj\Debug\MainWindow.g.cs
+C:\Users\y-ken\source\repos\kyrsken\kyrsken\obj\Debug\App.g.cs
+C:\Users\y-ken\source\repos\kyrsken\kyrsken\obj\Debug\kyrsken_MarkupCompile.cache
+C:\Users\y-ken\source\repos\kyrsken\kyrsken\obj\Debug\kyrsken_MarkupCompile.lref
+C:\Users\y-ken\source\repos\kyrsken\kyrsken\obj\Debug\MainWindow.baml
+C:\Users\y-ken\source\repos\kyrsken\kyrsken\obj\Debug\kyrsken.g.resources
+C:\Users\y-ken\source\repos\kyrsken\kyrsken\obj\Debug\kyrsken.Properties.Resources.resources
+C:\Users\y-ken\source\repos\kyrsken\kyrsken\obj\Debug\kyrsken.csproj.GenerateResource.cache
+C:\Users\y-ken\source\repos\kyrsken\kyrsken\obj\Debug\kyrsken.csproj.CoreCompileInputs.cache
+C:\Users\y-ken\source\repos\kyrsken\kyrsken\obj\Debug\kyrsken.exe
+C:\Users\y-ken\source\repos\kyrsken\kyrsken\obj\Debug\kyrsken.pdb
